@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://github.com/wh-Cyberspace/Anubis-7.0-Builder/blob/main/img/header.png?raw=true" height="170"><br>
+<img src="https://github.com/wh-Cyberspace/WhCyber-bot-Builder/blob/main/img/img0.png?raw=true" height="170"><br>
   
 <h1 align="center">  WhCyber-Bot Builder</h1> 
 
 <br>
 </p>
 
-  🏳 WH-Cyberspace (WH Anubis 7.0 Builder) 🔞
+  🏳 WH-Cyberspace (WhCyber-Bot Builder) 🔞
 <br>
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
   
@@ -16,33 +16,38 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual c
 
 
 
-About this item future
+#About this item future
 
-[+] Name Change in Apk
+[+] Name Change in Exe
 
-[+] Icon Change In apk
+[+] Icon Change In Exe
 
-[+] IP/Url Change In Apk
+[+] IP/Url Change In Exe
 
 [+] Encord func
 
 [+] Traffuc Tapping
 
-[+] InTerval Tapping
+
 
 
 
 # ➰ requirements PKG
 
-☆ Net framework 3.5  [Here  3.5 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 3.5 ")
+☆ Net framework 4.8  [Here  4.8 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 4.8 ")
 
 
-☆ java jre > [Here]( https://raw.githubusercontent.com/wh-r47/java/master/jre-whbot.exe " JAVA JRE")
+☆ Python3 > [Here]( https://mega.nz/file/uBowSITT#LxfzOm7q0EwIA4s_NaRDmF6oFbj4vQMaMxZ6AsfOQzs " JAVA JRE")
+
+☆ ndp48-devpack-enu > [Here]( https://mega.nz/file/vE5wlQTL#RT-N271U8aCKqyz_BBd72nbrw8BZDKYXWYOKRWFozqU " JAVA JRE")
+
+☆ python requirements.txt file > [Here]( https://mega.nz/file/uBowSITT#LxfzOm7q0EwIA4s_NaRDmF6oFbj4vQMaMxZ6AsfOQzs " JAVA JRE")
+
 
 
 # 🔑 LICENSE / Activation KEY
 
-Price : $110/-
+Price : $120/-
 
 ☆ Buy LICENSE Key IN Website [Here ](https://whcyberspace.com "LICENSE")
 
@@ -53,18 +58,20 @@ Buy LICENSE Key direct In Telegram  [Here ](http://t.me/whcyberspace "LICENSE")
 
 <br>
 
-### How To Use ?
+
+##How TO Install ?
+
+0:> save in ( c:/ ) drive (requirements.txt ) file .
+
+1:> (python-3.10.2-amd64) install in ( C:/python3 ) . [Do not install another drive or path ]
+
+2:> win+r > type in run box (CMD) and hit enter .
+
+3:> type this commend in terminal ( C:/python3/python.exe -m pip install -r c:/requirements.txt ) And hit Enter .
+
+4:> type this commend in terminal (C:/python3/python.exe -m pip install --upgrade pip) And hit Enter .
 
 
-[+] Download Zip (https://whcyberspace.com)
-
-[+] Unzip File
-
-[+] Make Sure No [ ] space in Path Location
-
-[+] Click [WH - Anubis 7.0 Builder.exe]
-
-And Run 
 
 
 # 💿 SYSTEM TEST X64 & X86
@@ -82,15 +89,13 @@ And Run
 
 <p align="center">
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Anubis-7.0-Builder/main/img/img10.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WhCyber-bot-Builder/blob/main/img/img1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Anubis-7.0-Builder/main/img/img2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WhCyber-bot-Builder/blob/main/img/img2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
-
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Anubis-7.0-Builder/main/img/img3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
 # ℹ INFO
-Framwork version : 2.0.1.2
+Framwork version : 1.0.1.0
 
 POWER BY >> WH-Cyberspace  
 
