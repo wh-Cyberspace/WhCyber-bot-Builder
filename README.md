@@ -34,14 +34,32 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual c
 
 # ➰ requirements PKG
 
-☆ Net framework 4.8  [Here  4.8 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 4.8 ")
+☆ Net framework 4.8  [Here  4.8 ]( https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-8-offline-installer-for-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0 "Net framework 4.8 ")
 
 
-☆ Python3 > [Here]( https://mega.nz/file/uBowSITT#LxfzOm7q0EwIA4s_NaRDmF6oFbj4vQMaMxZ6AsfOQzs " JAVA JRE")
+☆ Python3 > [Here]( https://mega.nz/file/uBowSITT#LxfzOm7q0EwIA4s_NaRDmF6oFbj4vQMaMxZ6AsfOQzs " Python3 ")
 
-☆ ndp48-devpack-enu > [Here]( https://mega.nz/file/vE5wlQTL#RT-N271U8aCKqyz_BBd72nbrw8BZDKYXWYOKRWFozqU " JAVA JRE")
+☆ ndp48-devpack-enu > [Here]( https://mega.nz/file/vE5wlQTL#RT-N271U8aCKqyz_BBd72nbrw8BZDKYXWYOKRWFozqU " ndp48 Dev pack")
 
-☆ python requirements.txt file > [Here]( https://mega.nz/file/uBowSITT#LxfzOm7q0EwIA4s_NaRDmF6oFbj4vQMaMxZ6AsfOQzs " JAVA JRE")
+☆ python requirements.txt file > [Here]( https://mega.nz/file/uBowSITT#LxfzOm7q0EwIA4s_NaRDmF6oFbj4vQMaMxZ6AsfOQzs " python requirements ")
+
+
+
+## How TO Install ?
+
+0:> save in ( c:/ ) drive (requirements.txt ) file .
+
+1:> (python-3.10.2-amd64) install in ( C:/python3 ) . [Do not install another drive or path ]
+
+2:> win+r > type in run box (CMD) and hit enter .
+
+3:> type this commend in terminal ( C:/python3/python.exe -m pip install -r c:/requirements.txt ) And hit Enter .
+
+4:> type this commend in terminal (C:/python3/python.exe -m pip install --upgrade pip) And hit Enter .
+
+
+
+
 
 
 
@@ -59,17 +77,6 @@ Buy LICENSE Key direct In Telegram  [Here ](http://t.me/whcyberspace "LICENSE")
 <br>
 
 
-## How TO Install ?
-
-0:> save in ( c:/ ) drive (requirements.txt ) file .
-
-1:> (python-3.10.2-amd64) install in ( C:/python3 ) . [Do not install another drive or path ]
-
-2:> win+r > type in run box (CMD) and hit enter .
-
-3:> type this commend in terminal ( C:/python3/python.exe -m pip install -r c:/requirements.txt ) And hit Enter .
-
-4:> type this commend in terminal (C:/python3/python.exe -m pip install --upgrade pip) And hit Enter .
 
 
 
