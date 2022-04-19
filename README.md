@@ -65,7 +65,6 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual c
 
 # 🔑 LICENSE / Activation KEY
 
-Price : $120/-
 
 ☆ Buy LICENSE Key IN Website [Here ](https://whcyberspace.com "LICENSE")
 
@@ -112,7 +111,7 @@ coeded by : WH-Cyberspace
 
 MIT License
 
-Copyright (c) 2020 wh-Cyberspace
+Copyright (c) 2020 - wh-Cyberspace
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
